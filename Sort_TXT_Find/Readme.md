@@ -21,7 +21,7 @@ B. Print all the words in the text that resemble a string to the point of omitti
 The running time is O(n) (n is the size of the characters in the text)
 
     Procedure:
-    :1: The program receives a text file from the folder where the program is located so that:
+    1) The program receives a text file from the folder where the program is located so that:
     2) The first word is the word to search and after is the character of which action to take.
     3) If the character is 'a' the program print all the lines in the text in which the string appears.
     4) If the character is 'b' the program print all the words in the text that resemble a string to the point of omitting one letter from the word.
