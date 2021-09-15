@@ -1,1 +1,3 @@
-# mini_projects_c
+# c
+
+These assignments are given by the cpp course
