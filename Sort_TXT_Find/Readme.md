@@ -1,22 +1,21 @@
-insertion sort and txt find in C language.
+**insertion sort and txt find in C language.**
 
-    *   insertion sort:
+# insertion sort:
 
-
-*   The function sorts 50 numbers from the smallest to the largest by an algorithm "insertion sort" -> O(n^2).
+The function sorts 50 numbers from the smallest to the largest by an algorithm "insertion sort" -> O(n^2).
     
     Procedure:
-    1) The program receives 50 numbers from the user.
+    1) The program receives 50 numbers from the **user**.
     2) Sorts the numbers from the smallest to the largest.
     3) Prints all numbers after sorting.
 
 
 
-____________________________
+***
 
-    *   txt find:
+# txt find:
 
-*   The program that receives a string text as input and executes one of the following options:
+The program receives a string text as input and executes one of the following options:
 A. Print all the lines in the text in which the string appears.
 B. Print all the words in the text that resemble a string to the point of omitting one letter from the word.
 The running time is O(n) (n is the size of the characters in the text)
