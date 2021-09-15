@@ -1,3 +1,3 @@
 # c
 
-These assignments are given by the cpp course
+These assignments are given by the c course
